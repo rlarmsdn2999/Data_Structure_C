@@ -1,0 +1,5 @@
+﻿  ArrayStack.c
+  Test_ArrayStack.c
+C:\Users\User\Desktop\rlarmsdn\C\Stack\ArrayStack\ArrayStack\Test_ArrayStack.c(8,2): warning C4013: 'AS_CreateStack'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  ArrayStack.vcxproj -> C:\Users\User\Desktop\rlarmsdn\C\Stack\ArrayStack\x64\Debug\ArrayStack.exe

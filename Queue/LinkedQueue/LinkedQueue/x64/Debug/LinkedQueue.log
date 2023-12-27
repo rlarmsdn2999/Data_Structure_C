@@ -1,0 +1,8 @@
+﻿  LinkedQueue.c
+C:\Users\User\Desktop\rlarmsdn\C\Queue\LinkedQueue\LinkedQueue\LinkedQueue.c(27,32): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\User\Desktop\rlarmsdn\C\Queue\LinkedQueue\LinkedQueue\LinkedQueue.c(29,2): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Test_LinkedQueue.c
+C:\Users\User\Desktop\rlarmsdn\C\Queue\LinkedQueue\LinkedQueue\Test_LinkedQueue.c(26,17): warning C4047: '함수': 'LinkedQueue **'의 간접 참조 수준이 'LinkedQueue *'과(와) 다릅니다.
+C:\Users\User\Desktop\rlarmsdn\C\Queue\LinkedQueue\LinkedQueue\Test_LinkedQueue.c(26,17): warning C4024: 'LQ_CreateQueue': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  코드를 생성하고 있습니다...
+  LinkedQueue.vcxproj -> C:\Users\User\Desktop\rlarmsdn\C\Queue\LinkedQueue\x64\Debug\LinkedQueue.exe

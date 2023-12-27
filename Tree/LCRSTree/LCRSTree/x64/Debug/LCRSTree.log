@@ -1,0 +1,15 @@
+﻿  LCRSTree.c
+C:\Users\User\Desktop\rlarmsdn\Algorithm_C\Tree\LCRSTree\LCRSTree\LCRSTree.c(19,24): warning C4133: '함수': 'tagLCRSNode *'과(와) 'LCRSNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\User\Desktop\rlarmsdn\Algorithm_C\Tree\LCRSTree\LCRSTree\LCRSTree.c(21,24): warning C4133: '함수': 'tagLCRSNode *'과(와) 'LCRSNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\User\Desktop\rlarmsdn\Algorithm_C\Tree\LCRSTree\LCRSTree\LCRSTree.c(33,21): warning C4133: '=': 'LCRSNode *'과(와) 'tagLCRSNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\User\Desktop\rlarmsdn\Algorithm_C\Tree\LCRSTree\LCRSTree\LCRSTree.c(39,13): warning C4133: '=': 'tagLCRSNode *'과(와) 'LCRSNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\User\Desktop\rlarmsdn\Algorithm_C\Tree\LCRSTree\LCRSTree\LCRSTree.c(41,26): warning C4133: '=': 'LCRSNode *'과(와) 'tagLCRSNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\User\Desktop\rlarmsdn\Algorithm_C\Tree\LCRSTree\LCRSTree\LCRSTree.c(37,13): warning C4133: '초기화 중': 'tagLCRSNode *'과(와) 'LCRSNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\User\Desktop\rlarmsdn\Algorithm_C\Tree\LCRSTree\LCRSTree\LCRSTree.c(54,22): warning C4133: '함수': 'tagLCRSNode *'과(와) 'LCRSNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\User\Desktop\rlarmsdn\Algorithm_C\Tree\LCRSTree\LCRSTree\LCRSTree.c(56,22): warning C4133: '함수': 'tagLCRSNode *'과(와) 'LCRSNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\User\Desktop\rlarmsdn\Algorithm_C\Tree\LCRSTree\LCRSTree\LCRSTree.c(72,15): warning C4133: '=': 'tagLCRSNode *'과(와) 'LCRSNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\User\Desktop\rlarmsdn\Algorithm_C\Tree\LCRSTree\LCRSTree\LCRSTree.c(77,16): warning C4133: '=': 'tagLCRSNode *'과(와) 'LCRSNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\User\Desktop\rlarmsdn\Algorithm_C\Tree\LCRSTree\LCRSTree\LCRSTree.c(79,15): warning C4133: '=': 'tagLCRSNode *'과(와) 'LCRSNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\User\Desktop\rlarmsdn\Algorithm_C\Tree\LCRSTree\LCRSTree\LCRSTree.c(87,14): warning C4133: '=': 'tagLCRSNode *'과(와) 'LCRSNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\User\Desktop\rlarmsdn\Algorithm_C\Tree\LCRSTree\LCRSTree\LCRSTree.c(9): warning C4716: 'LCRS_CreateNode': 값을 반환해야 합니다.
+  LCRSTree.vcxproj -> C:\Users\User\Desktop\rlarmsdn\Algorithm_C\Tree\LCRSTree\x64\Debug\LCRSTree.exe
